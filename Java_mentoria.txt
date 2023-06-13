@@ -5,6 +5,6 @@
 <title>Docker: Criando containers sem dor de cabeça</title>
 </head>
 <body>
-<Integração contínua: maturidade e Produtividade no desenvolvimento  de software. >
+<Integração contínua: Curso de Devops da Alura. >
 </body>
 </html>
