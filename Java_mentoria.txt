@@ -5,6 +5,6 @@
 <title>Curso de Devops da Alura</title>
 </head>
 <body>
-<Integração contínua: Curso de Devops da Alura. >
+<Integração contínua: Cursos de Devops da Alura com GIT e GITHUB>
 </body>
 </html>
