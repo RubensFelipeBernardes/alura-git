@@ -5,6 +5,6 @@
 <title>Docker: Criando containers sem dor de cabeça</title>
 </head>
 <body>
-<Integração contínua: Curso de Devops da Alura com GIT e GITHUB>
+<Integração contínua: Cursos de Devops da Alura com GIT e GITHUB>
 </body>
 </html>
